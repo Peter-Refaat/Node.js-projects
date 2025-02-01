@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "animalName": "Tiger",
+    "image": "🐯",
+    "from": "Asia",
+    "nutrients": "Carnivore - primarily eats deer, wild boar, and buffalo",
+    "quantity": "4 cubs",
+    "lifespan": "10-15 years",
+    "conservationStatus": true,
+    "description": "The tiger is the largest cat species, known for its strength, agility, and distinctive orange coat with black stripes. Tigers are solitary hunters, relying on stealth and power to take down prey. They are primarily found in dense forests and grasslands across Asia. Unfortunately, tigers are endangered due to habitat loss and poaching."
+  },
+  {
+    "id": 1,
+    "animalName": "Lion",
+    "image": "🦁",
+    "from": "Africa",
+    "nutrients": "Carnivore - primarily eats zebras, wildebeests, and antelopes",
+    "quantity": "2-4 cubs",
+    "lifespan": "10-14 years",
+    "conservationStatus": false,
+    "description": "Lions are large, social cats known as the 'kings of the jungle.' They live in prides and rely on teamwork to hunt. Males have distinctive manes, while females are the primary hunters. Their populations are declining due to habitat loss and human conflict."
+  },
+  {
+    "id": 2,
+    "animalName": "Elephant",
+    "image": "🐘",
+    "from": "Africa & Asia",
+    "nutrients": "Herbivore - eats grass, leaves, bark, and fruit",
+    "quantity": "1 calf",
+    "lifespan": "60-70 years",
+    "conservationStatus": true,
+    "description": "Elephants are the largest land mammals, known for their intelligence, strong memory, and long trunks. They are social animals that communicate through vocalizations and vibrations. Poaching and habitat destruction threaten their survival."
+  },
+  {
+    "id": 3,
+    "animalName": "Bear",
+    "image": "🐻",
+    "from": "North America, Europe, and Asia",
+    "nutrients": "Omnivore - eats fish, berries, honey, and small mammals",
+    "quantity": "1-3 cubs",
+    "lifespan": "20-30 years",
+    "conservationStatus": false,
+    "description": "Bears are powerful mammals with strong claws and thick fur. They are excellent climbers and swimmers, and some species, like the grizzly, hibernate during winter. Their diet varies based on habitat and season."
+  },
+  {
+    "id": 4,
+    "animalName": "Gorilla",
+    "image": "🦍",
+    "from": "Central Africa",
+    "nutrients": "Herbivore - eats fruits, leaves, stems, and roots",
+    "quantity": "1 infant",
+    "lifespan": "35-40 years",
+    "conservationStatus": true,
+    "description": "Gorillas are the largest primates and share about 98% of their DNA with humans. They live in family groups led by a dominant male, called a silverback. Gorillas are highly intelligent and use tools in the wild. Habitat destruction and poaching have put them at great risk."
+  }
+]
